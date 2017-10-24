@@ -1,0 +1,146 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% "ModernCV" CV and Cover Letter
+% LaTeX Template
+% Version 1.1 (9/12/12)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Xavier Danaux (xdanaux@gmail.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template requires the moderncv.cls and .sty files to be in the same
+% directory as this .tex file. These files provide the resume style and themes
+% used for structuring the document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[10pt,a4paper,roman]{moderncv} % Font sizes: 10, 11, or 12; paper sizes: a4paper, letterpaper, a5paper, legalpaper, executivepaper or landscape; font families: sans or roman
+
+\moderncvstyle{banking} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{black} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\usepackage{url}
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage[scale=0.80]{geometry} % Reduce document margins
+%sugartom_scale=0.75->0.8
+%add the following line by sugartom
+\geometry{top=1.5cm,bottom=1.0cm,head=0.5cm}
+%\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
+%\setlength{\makecvtitlenamewidth}{10cm} % For the 'classic' style, uncomment to adjust the width of the space allocated to your name
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CONTACT INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+\firstname{Gaoxiong} % Your first name
+\familyname{Zeng} % Your last name
+
+%----------------------------------------------------------------------------------------
+\begin{document}
+
+\makecvtitle % Print the CV title
+
+%----------------------------------------------------------------------------------------
+%	CONTACT SECTION
+%----------------------------------------------------------------------------------------
+\section{Contact Information}
+\vspace{2mm}
+\begin{tabular}{p{9cm} l}
+Email: \href{mailto:gaoxiongzeng@gmail.com}{gaoxiongzeng@gmail.com} &  Room 3661 (Lift 31/32), Academic Building\\
+Telephone: +852-69915276 & Hong Kong University of Science and Technology\\
+Webpage: \textcolor{blue}{\url{http://gaoxiongzeng.github.io}} & Clear Water Bay, Hong Kong, China\\
+\end{tabular}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section{Education}
+\vspace{2mm}
+\cventry{Aug. 2015 - Present}{Ph.D. in Computer Science and Engineering}{Hong Kong University of Science and Technology (HKUST)}{Hong Kong, China}{}{Advisor: Prof. Kai Chen}
+\vspace{3mm}
+\cventry{Sept. 2011 - June 2015}{B.E. in Electronic Engineering and Information Science}{University of Science and Technology of China (USTC)}{Hefei, China}{}{Thesis Advisor: Prof. Zuqing Zhu}
+
+
+%----------------------------------------------------------------------------------------
+%	INTERESTS SECTION
+%----------------------------------------------------------------------------------------
+\section{Research Interest}
+\vspace{2mm}
+Computer Systems and Networks (with particular interest in data center networking)
+
+
+%----------------------------------------------------------------------------------------
+%	PUBLICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+%\section{Selected Research Projects}
+%\cvitem{}{
+%\begin{itemize}
+%\item \textbf{XPath}, a simple, practical and readily deployable framework to implement explicit routing. XPath
+%explicitly identifies an end-to-end path with a path ID and leverages a two-step compression algorithm to
+%pre-install all the desired paths into IP TCAM tables of commodity switches.
+%\end{itemize}
+%}
+
+\section{Publications}
+\vspace{2mm}
+\cvitem{Workshop Publications}{
+\vspace{1mm}
+\begin{itemize}
+\item \textbf{Combining ECN and RTT for Datacenter Transport} \\
+\textbf{Gaoxiong Zeng}, Wei Bai, Ge Chen, Kai Chen, Dongsu Han, Yibo Zhu \\
+The 1st ACM Asia-Pacific Workshop on Networking (\textbf{APNet}), 2017.
+\end{itemize}
+}
+
+\vspace{1.5mm}
+
+\cvitem{Posters}{
+\vspace{1mm}
+\begin{itemize}
+\item \textbf{Improved Path Compression for Explicit Path Control in Production Data Centers} \\
+Shuihai Hu, Kai Chen, \textbf{Gaoxiong Zeng} \\
+The 13th USENIX Symposium on Networked Systems Design and Implementation (\textbf{NSDI}), 2016.
+\end{itemize}
+}
+
+
+\section{Internship Experiences}
+\vspace{2mm}
+\cventry{July 2014 - Aug. 2014}{Research Intern @ Network Technology Research Center. Worked with Prof. Yujun Zhang.}{Institute of Computing Technology, Chinese Academy of Sciences (ICT-CAS)}{Beijing, China}{}{}
+
+
+\section{Teaching Experiences}
+\vspace{2mm}
+\cvitemwithcomment{}{Teaching Assistant - HKUST COMP 2611: Computer Organization.}{2016 Spring, 2016 Fall, 2017 Spring}
+
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+\section{Honors \& Awards}
+\vspace{2mm}
+\cvitemwithcomment{}{[HKUST] \textbf{Research Postgraduate Scholarship}}{2015, 2016, 2017}
+\vspace{1mm}
+\cvitemwithcomment{}{[USTC] \textbf{Graduation Award of The Talent Program in Computer \& Information Sci. \& Tech.}}{2015}
+\vspace{1mm}
+\cvitemwithcomment{}{[USTC] \textbf{Outstanding Student Scholarship}}{2012, 2013, 2014}
+\vspace{1mm}
+\cvitemwithcomment{}{[Department of Education, Guangdong] \textbf{Provincial Soong Ching Ling Scholarship} }{2010}
+
+
+\section{Professional Skills}
+\vspace{2mm}
+\cvitem{Programming} {C/C++, Python.}
+\vspace{1mm}
+\cvitem{Miscellaneous} {Linux kernel TCP, NS2 simulation, etc.}
+\end{document}
