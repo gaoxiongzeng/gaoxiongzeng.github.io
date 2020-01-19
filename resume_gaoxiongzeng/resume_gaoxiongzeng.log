@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  28 SEP 2019 11:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  19 JAN 2020 10:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -594,39 +594,35 @@ EX)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
 File: ctex-name-utf8.cfg 2019/04/07 v2.4.15 Caption with encoding UTF8 (CTEX)
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
-File: ctex-fontset-mac.def 2019/04/07 v2.4.15 Mac OS X fonts definition (CTEX)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-macnew.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-fandol.
 def
-File: ctex-fontset-macnew.def 2019/04/07 v2.4.15 Mac OS X fonts definition for 
-El Capitan or later version (CTEX)
+File: ctex-fontset-fandol.def 2019/04/07 v2.4.15 Fandol fonts definition (CTEX)
 
 
-Package fontspec Warning: Font "Songti SC Light" does not contain requested
+
+Package fontspec Warning: Font "FandolSong-Regular" does not contain requested
 (fontspec)                Script "CJK".
 
 
-Package fontspec Info: Font family 'SongtiSC(0)' created for font 'Songti SC'
-(fontspec)             with options [Script={CJK},UprightFont={*
-(fontspec)             Light},BoldItalicFont={Kaiti SC Bold},BoldFont={*
-(fontspec)             Bold},ItalicFont={Kaiti SC}].
+Package fontspec Info: Font family 'FandolSong-Regular(0)' created for font
+(fontspec)             'FandolSong-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolSong-Bold
+},ItalicFont={FandolKai-Regular}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Songti SC
-(fontspec)             Light/OT"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Regular.otf]/OT"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Songti SC Bold/OT"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[FandolSong-Bold.otf]/OT"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Kaiti SC/OT"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[FandolKai-Regular.otf]/OT"
 (fontspec)             - 'italic small caps'  (m/itsc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Kaiti SC
-(fontspec)             Bold/OT"
-(fontspec)             - 'bold italic small caps'  (b/itsc) with NFSS spec.: 
 
-))) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ctex/config/ctex.cfg
 File: ctex.cfg 2019/04/07 v2.4.15 Configuration file (CTEX)
 )
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lipsum/lipsum.sty
@@ -907,70 +903,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--51
  []
 
 
-Package fontspec Warning: Font "STFangsong" does not contain requested Script
-(fontspec)                "CJK".
-
-
-Package fontspec Info: Could not resolve font "STFangsong/BI" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
 
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Package fontspec Info: Font family 'STFangsong(0)' created for font
-(fontspec)             'STFangsong' with options [Script={CJK}].
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `SongtiSC' (encoding: TU).
+(microtype)             `FandolSong-Regular' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package microtype Info: Character `textendash ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textemdash ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteleft ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquoteright ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblleft ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
-Package microtype Info: Character `textquotedblright ' is missing
-(microtype)             in font `TU/SongtiSC(0)/b/n/10'.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
  [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 178.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
  (./resume_gaoxiongzeng.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 178.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 177.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
 Package rerunfilecheck Info: File `resume_gaoxiongzeng.out' has not changed.
 (rerunfilecheck)             Checksum: E31D6C0FE3B4C801252F53C2BD89FD5A.
 
@@ -979,12 +974,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26241 strings out of 492916
- 523373 string characters out of 6133345
- 736567 words of memory out of 5000000
- 29997 multiletter control sequences out of 15000+600000
- 547377 words of font info for 57 fonts, out of 8000000 for 9000
+ 26223 strings out of 492916
+ 523369 string characters out of 6133345
+ 736233 words of memory out of 5000000
+ 29992 multiletter control sequences out of 15000+600000
+ 547361 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 60i,13n,74p,785b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,13n,76p,785b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_gaoxiongzeng.pdf (2 pages).
