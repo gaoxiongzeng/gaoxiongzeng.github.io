@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  19 JAN 2020 10:13
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  18 APR 2020 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -959,13 +959,13 @@ Package microtype Info: Character `\textquestiondown ' is missing
  [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 177.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
 
 [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 177.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
  (./resume_gaoxiongzeng.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 177.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 177.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
 Package rerunfilecheck Info: File `resume_gaoxiongzeng.out' has not changed.
 (rerunfilecheck)             Checksum: E31D6C0FE3B4C801252F53C2BD89FD5A.
 
@@ -976,7 +976,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  26223 strings out of 492916
  523369 string characters out of 6133345
- 736233 words of memory out of 5000000
+ 735233 words of memory out of 5000000
  29992 multiletter control sequences out of 15000+600000
  547361 words of font info for 55 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
