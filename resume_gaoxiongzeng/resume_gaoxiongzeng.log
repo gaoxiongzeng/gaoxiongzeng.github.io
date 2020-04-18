@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  18 APR 2020 12:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.8.10)  18 APR 2020 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -869,6 +869,37 @@ LaTeX Info: Redefining \nameref on input line 49.
 \openout3 = `resume_gaoxiongzeng.out'.
 
 \pagenumberwidth=\skip85
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `FandolSong-Regular' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `\AE ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotesinglbase ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\quotedblbase ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglleft ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guilsinglright ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotleft ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\guillemotright ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textexclamdown ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `\textquestiondown ' is missing
+(microtype)             in font `\TU/FandolSong-Regular(0)/b/n/24.88'.
+(microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Try loading font information for OT1+lmr on input line 51.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
@@ -925,10 +956,6 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 )
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `FandolSong-Regular' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
 Package microtype Info: Character `\AE ' is missing
 (microtype)             in font `\TU/FandolSong-Regular(0)/b/n/10'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -974,12 +1001,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26223 strings out of 492916
- 523369 string characters out of 6133345
- 735233 words of memory out of 5000000
- 29992 multiletter control sequences out of 15000+600000
- 547361 words of font info for 55 fonts, out of 8000000 for 9000
+ 26227 strings out of 492916
+ 523507 string characters out of 6133345
+ 736431 words of memory out of 5000000
+ 29995 multiletter control sequences out of 15000+600000
+ 547369 words of font info for 56 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,13n,76p,785b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,13n,76p,785b,496s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_gaoxiongzeng.pdf (2 pages).
