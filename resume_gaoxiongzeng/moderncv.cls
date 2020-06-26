@@ -136,7 +136,7 @@
     bookmarksopen = true,
     bookmarksdepth= 2,% to show sections and subsections
     pdfauthor     = {\@firstname{}~\@familyname{}},
-    pdftitle      = {\@firstname{}~\@familyname{} -- \@title{}},
+    pdftitle      = {Resum\'{e} of \@firstname{}~\@familyname{}},
     pdfsubject    = {Resum\'{e} of \@firstname{}~\@familyname{}},
     pdfkeywords   = {\@firstname{}~\@familyname{}, curriculum vit\ae{}, resum\'{e}}}}
 
