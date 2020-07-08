@@ -8,3 +8,6 @@ resume_gaoxiongzeng/resume_gaoxiongzeng.log
 resume_gaoxiongzeng/resume_gaoxiongzeng.aux
 resume_gaoxiongzeng/resume_gaoxiongzeng.log
 resume_gaoxiongzeng/resume_gaoxiongzeng.out
+*.aux
+*.log
+*.out
