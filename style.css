@@ -8,19 +8,20 @@ body {
     /* background-color: #D4DFDF; light blue: #becdd6, blue: #6F9CCE, cyan: #E0FFFF*/
     background: rgb(45,60,73); /* Old browsers */
     background: -moz-linear-gradient(top, rgba(192,192,192,1) 0px, rgba(192,192,192,0.5) 800px); /* FF3.6+ */
-    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0px,rgba(192,192,192,1)), color-stop(800px,rgba(192,192,192,0.5))); /* Chrome,Safari4+ */
+    background: -webkit-gradient(linear, top, bottom, color-stop(0px,rgba(192,192,192,1)), color-stop(800px,rgba(192,192,192,0.5))); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* Chrome10+,Safari5.1+ */
     background: -o-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* IE10+ */
     background: linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2d3c49', endColorstr='#356aa0',GradientType=0 ); /* IE6-9 */
     background-color: rgba(53, 106, 160, 1);
-    background-repeat: no-repeat;
+    /*background-repeat: no-repeat;*/
     font-family: "Times New Roman",arial,sans-serif;
     font-size:12pt;
     font-weight:normal;
     text-align : center;
     color:#333;
+    background-size:cover;
     overflow-x: auto;
     overflow-y: scroll; /* so the div doesn't move around depending 
                    on whether it's tall enough to have a scrollbar */
