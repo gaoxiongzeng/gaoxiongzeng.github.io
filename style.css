@@ -8,7 +8,7 @@ body {
     /* background-color: #D4DFDF; light blue: #becdd6, blue: #6F9CCE, cyan: #E0FFFF*/
     background: rgb(45,60,73); /* Old browsers */
     background: -moz-linear-gradient(top, rgba(192,192,192,1) 0px, rgba(192,192,192,0.5) 800px); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0px,rgba(192,192,192,1)), color-stop(800px,rgba(192,192,192,0.5))); /* Chrome,Safari4+ */
+    /*background: -webkit-gradient(linear, left top, left bottom, color-stop(0px,rgba(192,192,192,1)), color-stop(800px,rgba(192,192,192,0.5))); /* Chrome,Safari4+ */
     background: -webkit-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* Chrome10+,Safari5.1+ */
     background: -o-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* Opera 11.10+ */
     background: -ms-linear-gradient(top, rgba(192,192,192,1) 0px,rgba(192,192,192,0.5) 800px); /* IE10+ */
@@ -46,7 +46,7 @@ a:hover {
     /* font-variant: small-caps; */
 }
 
-.container700 {
+.container {
     width: 960px;
     margin:30px auto;   /* used to center the div (known hack for IE) */
     text-align: left;
