@@ -47,7 +47,7 @@ a:hover {
 }
 
 .container {
-    width: 960px;
+    width: 70%;
     margin:30px auto;   /* used to center the div (known hack for IE) */
     text-align: left;
     border-style:solid;
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .content {
-    margin-left:180px;
+    margin-left:18%;
     padding: 0px 0px 0px 20px;
 }
 
@@ -79,8 +79,8 @@ a:hover {
 }
 
 #section-links {
-    float: left; 
-    width: 180px;
+    float:left; 
+    width:18%;
     background:#FFF;
     text-align:left;
 }
