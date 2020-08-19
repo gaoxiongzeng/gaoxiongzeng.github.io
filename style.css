@@ -4,7 +4,7 @@
 */
 
 body {
-    margin:0px;
+    margin: 0px;
     /* background-color: #D4DFDF; light blue: #becdd6, blue: #6F9CCE, cyan: #E0FFFF*/
     background: rgb(45,60,73); /* Old browsers */
     background: -moz-linear-gradient(top, rgba(192,192,192,1) 0px, rgba(192,192,192,0.5) 800px); /* FF3.6+ */
@@ -17,11 +17,11 @@ body {
     background-color: rgba(53, 106, 160, 1);
     /*background-repeat: no-repeat;*/
     font-family: "Times New Roman",arial,sans-serif;
-    font-size:14pt;
-    font-weight:normal;
+    font-size: 14pt;
+    font-weight: normal;
     text-align : center;
-    color:#333;
-    background-size:cover;
+    color: #333;
+    background-size: cover;
     overflow-x: auto;
     overflow-y: scroll; /* so the div doesn't move around depending 
                    on whether it's tall enough to have a scrollbar */
@@ -29,31 +29,31 @@ body {
 
 a {
     text-decoration: none;
-    color:          #385792;
+    color: #385792;
     font-family: 'Times New Roman';
 }
 a:hover {
-    color:          #6F9CCE;
+    color: #6F9CCE;
 }
 
 
 .titletext {
-    color:#111;
-    font-size:21pt;
-    font-weight:normal;
-    text-align : left;
+    color: #111;
+    font-size: 21pt;
+    font-weight: normal;
+    text-align: left;
     padding: 30px 0px;
     font-family: 'Times New Roman';
 }
 
 .container {
     width: 960px;
-    margin:30px auto;   /* used to center the div (known hack for IE) */
+    margin: 30px auto;   /* used to center the div (known hack for IE) */
     text-align: left;
-    border-style:solid;
-    border-width:2px;
-    border-color:#333;
-    background:#FFF;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #333;
+    background: #FFF;
     padding: 0px 30px 30px 30px;
     border-radius: 7px;
     -webkit-border-radius: 7px;
@@ -64,11 +64,11 @@ a:hover {
 }
 
 .pub-title {
-    font-size:16pt;
+    font-size: 16pt;
 }
 
 .content {
-    margin-left:180px;
+    margin-left: 180px;
     padding: 0px 0px 0px 20px;
 }
 
@@ -81,12 +81,12 @@ a:hover {
 #section-links {
     float: left; 
     width: 180px;
-    background:#FFF;
-    text-align:left;
+    background: #FFF;
+    text-align: left;
 }
 
 .bottom {
-    clear:  left;
+    clear: left;
 }
 
 .photo {
@@ -130,9 +130,9 @@ li {
 }
 
 ul {
-    margin-left:-25px;
-    margin-right:50px;
-    margin-top:5px;
+    margin-left: -25px;
+    margin-right: 50px;
+    margin-top: 5px;
 }
 
 h2 {
