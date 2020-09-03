@@ -17,7 +17,7 @@ body {
     background-color: rgba(53, 106, 160, 1);
     /*background-repeat: no-repeat;*/
     font-family: "Times New Roman",arial,sans-serif;
-    font-size: 15pt;
+    font-size: 14pt;
     font-weight: normal;
     text-align : center;
     color: #333;
@@ -87,7 +87,7 @@ ul {
 
 .picture-border {
     border: 2px solid #ccc;
-    margin: 3px 30px 20px 30px;
+    margin: 0px 30px 20px 30px;
     float: right;
 }
 
@@ -96,12 +96,11 @@ ul {
     padding: 0px 0px 0px 20px;
 }
 
-.pub-title {
-    /*font-size: 16pt;*/
+.sec-title {
+    font-size: 16pt;
 }
 
 .paper-container {
-    font-size: 14pt;
     margin-top: 1.0em;
     border-collapse: collapse;
     padding: 0px;
