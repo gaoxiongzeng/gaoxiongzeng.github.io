@@ -76,7 +76,7 @@ ul {
 
 #sidebar {
     float: left; 
-    width: 170px;
+    width: 160px;
     background: #FFF;
     text-align: left;
 }
@@ -92,7 +92,7 @@ ul {
 }
 
 .content {
-    margin-left: 170px;
+    margin-left: 160px;
     padding: 0px 0px 0px 20px;
 }
 
