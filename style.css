@@ -65,7 +65,7 @@ ul {
 
 #sidebar {
     float: left; 
-    width: 150px;
+    width: 120px;
     background: #FFF;
     text-align: left;
 }
@@ -81,7 +81,7 @@ ul {
 }
 
 .content {
-    margin-left: 150px;
+    margin-left: 120px;
     padding: 0px 0px 0px 20px;
 }
 
